@@ -1,0 +1,7 @@
+
+state   key     wstr         stack                                    display
+   
+start           '0'          float(0),float(0),float(0),float(0)      '0.0','0.0','0.0','0.0'
+        '.'     '0.'         float(0),float(0),float(0),float(0)      '0.0','0.0','0.0','0.'
+        "2"     '0.2'        float(0),float(0),float(0),float(0)      '0.0','0.0','0.0','0.2'
+        "5"     '0.25'       float(0),float(0),float(0),float(0)      '0.0','0.0','0.0','0.25'
